@@ -1,0 +1,13 @@
+{
+    "name": "Progress",
+    "alias": "progress",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Progress\\Providers\\ProgressServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

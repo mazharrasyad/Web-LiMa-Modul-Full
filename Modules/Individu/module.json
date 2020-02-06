@@ -1,0 +1,13 @@
+{
+    "name": "Individu",
+    "alias": "individu",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Individu\\Providers\\IndividuServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
